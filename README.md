@@ -35,7 +35,7 @@ Provided with a helpers class that contains all the SQL transformations, that ne
 
 The graph view finally look like:
 
-![Airflow1](/airflow1.png)
+![Airflow1](/Airflow_new.PNG)
 
 ### **Building the operators**
 >> Build four different operators that will stage the data, transform the data, and run checks on data quality.
